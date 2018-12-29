@@ -3,6 +3,6 @@
 
 def meal_choice(x)
   x = "meat"
-  print x
+  puts x
 end
 
